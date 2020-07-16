@@ -1,4 +1,4 @@
 dcxbd
 dodane później
-kolejna linia
+to jest zmiana tylko w branchu NowyBranch
 qqq
