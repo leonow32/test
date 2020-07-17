@@ -1,2 +1,3 @@
 plik master
 nowa linia w pliku master
+jeszcze jedna nowa linia w pliku master
