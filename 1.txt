@@ -1,0 +1,4 @@
+Plik 1
+Nowa linia
+Jeszcze jedna nowa linia
+
