@@ -1,3 +1,4 @@
 plik master
-nowa linia w pliku master
+nowa linia w pliku master - to zostało zmieniona
 jeszcze jedna nowa linia w pliku master
+nowa linia w pliku master
