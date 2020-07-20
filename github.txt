@@ -1,1 +1,2 @@
-Testowy plik utworzony na githubie
+Testowy plik utworzony na githubie - modyfikacja linii
+Dodanie nowej linii
