@@ -1,1 +1,2 @@
 To jest plik w NowyBranch
+bla bla bla
