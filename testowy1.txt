@@ -2,3 +2,4 @@ dcxbd
 dodane później
 kolejna linia
 zmiana qqq na xxx
+kolejna linia
