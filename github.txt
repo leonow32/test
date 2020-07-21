@@ -1,2 +1,3 @@
 Testowy plik utworzony na githubie - modyfikacja linii
 Dodanie nowej linii
+bla bla bla
